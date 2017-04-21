@@ -15,7 +15,7 @@
  */
 package javaemul.internal;
 
-import static jsweet.util.Globals.string;
+import static jsweet.util.Lang.string;
 
 import java.util.NoSuchElementException;
 

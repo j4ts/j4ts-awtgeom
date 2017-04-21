@@ -16,8 +16,8 @@
 package javaemul.internal;
 
 import static javaemul.internal.InternalPreconditions.checkCriticalArgument;
-import static jsweet.util.Globals.any;
-import static jsweet.util.Globals.string;
+import static jsweet.util.Lang.any;
+import static jsweet.util.Lang.string;
 
 import java.io.Serializable;
 
