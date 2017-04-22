@@ -1,7 +1,4 @@
 {
-	"@Root": {
-		"include": [ "java.awt.geom" ]
-	},
 	"@Erased": {
 		"include": [ "**.getBounds()", "**.hashCode()" ]
 	}
